@@ -596,6 +596,13 @@ a {
   padding: 15px;
   text-align: left;
 }
+@media (max-width:1200px) {
+  .container-cards {
+    height: 490px;
+    padding: 15px;
+    text-align: left;
+  }
+}
 .card {
   background: #09090f;
   width: 100%;
